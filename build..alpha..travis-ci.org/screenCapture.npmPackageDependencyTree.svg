@@ -1,0 +1,78 @@
+<svg height="1198" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1198" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">15 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ private-bower@1.1.8 </tspan>
+<tspan x="10" y="90">  ├── bluebird@2.11.0 </tspan>
+<tspan x="10" y="106">  ├─┬ body-parser@1.17.1 </tspan>
+<tspan x="10" y="122">  │ ├── bytes@2.4.0 </tspan>
+<tspan x="10" y="138">  │ ├── content-type@1.0.2 </tspan>
+<tspan x="10" y="154">  │ ├─┬ debug@2.6.1 </tspan>
+<tspan x="10" y="170">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="186">  │ ├── depd@1.1.0 </tspan>
+<tspan x="10" y="202">  │ ├─┬ http-errors@1.6.1 </tspan>
+<tspan x="10" y="218">  │ │ └── inherits@2.0.3 </tspan>
+<tspan x="10" y="234">  │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="250">  │ ├─┬ on-finished@2.3.0 </tspan>
+<tspan x="10" y="266">  │ │ └── ee-first@1.1.1 </tspan>
+<tspan x="10" y="282">  │ ├── qs@6.4.0 </tspan>
+<tspan x="10" y="298">  │ ├─┬ raw-body@2.2.0 </tspan>
+<tspan x="10" y="314">  │ │ └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="330">  │ └─┬ type-is@1.6.15 </tspan>
+<tspan x="10" y="346">  │   ├── media-typer@0.3.0 </tspan>
+<tspan x="10" y="362">  │   └─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="378">  │     └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="394">  ├── colors@0.6.2 </tspan>
+<tspan x="10" y="410">  ├─┬ express@4.15.2 </tspan>
+<tspan x="10" y="426">  │ ├─┬ accepts@1.3.3 </tspan>
+<tspan x="10" y="442">  │ │ └── negotiator@0.6.1 </tspan>
+<tspan x="10" y="458">  │ ├── array-flatten@1.1.1 </tspan>
+<tspan x="10" y="474">  │ ├── content-disposition@0.5.2 </tspan>
+<tspan x="10" y="490">  │ ├── cookie@0.3.1 </tspan>
+<tspan x="10" y="506">  │ ├── cookie-signature@1.0.6 </tspan>
+<tspan x="10" y="522">  │ ├── encodeurl@1.0.1 </tspan>
+<tspan x="10" y="538">  │ ├── escape-html@1.0.3 </tspan>
+<tspan x="10" y="554">  │ ├── etag@1.8.0 </tspan>
+<tspan x="10" y="570">  │ ├─┬ finalhandler@1.0.1 </tspan>
+<tspan x="10" y="586">  │ │ └── debug@2.6.3 </tspan>
+<tspan x="10" y="602">  │ ├── fresh@0.5.0 </tspan>
+<tspan x="10" y="618">  │ ├── merge-descriptors@1.0.1 </tspan>
+<tspan x="10" y="634">  │ ├── methods@1.1.2 </tspan>
+<tspan x="10" y="650">  │ ├── parseurl@1.3.1 </tspan>
+<tspan x="10" y="666">  │ ├── path-to-regexp@0.1.7 </tspan>
+<tspan x="10" y="682">  │ ├─┬ proxy-addr@1.1.4 </tspan>
+<tspan x="10" y="698">  │ │ ├── forwarded@0.1.0 </tspan>
+<tspan x="10" y="714">  │ │ └── ipaddr.js@1.3.0 </tspan>
+<tspan x="10" y="730">  │ ├── range-parser@1.2.0 </tspan>
+<tspan x="10" y="746">  │ ├─┬ send@0.15.1 </tspan>
+<tspan x="10" y="762">  │ │ ├── destroy@1.0.4 </tspan>
+<tspan x="10" y="778">  │ │ └── mime@1.3.4 </tspan>
+<tspan x="10" y="794">  │ ├── serve-static@1.12.1 </tspan>
+<tspan x="10" y="810">  │ ├── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="826">  │ ├── statuses@1.3.1 </tspan>
+<tspan x="10" y="842">  │ ├── utils-merge@1.0.0 </tspan>
+<tspan x="10" y="858">  │ └── vary@1.1.1 </tspan>
+<tspan x="10" y="874">  ├─┬ log4js@0.6.38 </tspan>
+<tspan x="10" y="890">  │ ├─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="906">  │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="922">  │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="938">  │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="954">  │ └── semver@4.3.6 </tspan>
+<tspan x="10" y="970">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="986">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="1002">  ├── moment@2.18.1 </tspan>
+<tspan x="10" y="1018">  ├─┬ node-rest-client@1.8.0 </tspan>
+<tspan x="10" y="1034">  │ ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="1050">  │ │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="1066">  │ └─┬ xml2js@0.4.17 </tspan>
+<tspan x="10" y="1082">  │   ├── sax@1.2.2 </tspan>
+<tspan x="10" y="1098">  │   └─┬ xmlbuilder@4.2.1 </tspan>
+<tspan x="10" y="1114">  │     └── lodash@4.17.4 </tspan>
+<tspan x="10" y="1130">  ├─┬ optimist@0.5.2 </tspan>
+<tspan x="10" y="1146">  │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="1162">  ├── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="1178">  └── URIjs@1.16.1</tspan>
+</text>
+</svg>
